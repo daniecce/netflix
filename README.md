@@ -6,13 +6,13 @@ The repository contains SQL queries for analyzing TV shows and movies on the NET
 ## SQL QUERIES
 
 1. countries_by_number_of_productions 
-   -This query checks the number of films produced in various countries.
+   - This query checks the number of films produced in various countries.
 2. movies_tvseries 
-   -This query checks whether there are more movies or series on the Netflix platform
+   - This query checks whether there are more movies or series on the Netflix platform
 3. programtype_trends 
-   -This query examines how many movies and series have been added over the years
+   - This query examines how many movies and series have been added over the years
 4. top4_genres 
-   -This query identifies the top four most popular film genres on the Netflix platform
+   - This query identifies the top four most popular film genres on the Netflix platform
 
 ## HOW TO USE
 
