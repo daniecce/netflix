@@ -1,7 +1,6 @@
 # NETFLIX MOVIES AND TV SHOWS 2014-2021
 
-**OVERVIEW**
-
+ **OVERVIEW** 
 The repository contains SQL queries for analyzing TV shows and movies on the NETFLIX platform, including the number of productions in a given country, the most popular film genres, and trends in adding movies and series.
 
 **SQL QUERIES**
@@ -21,6 +20,6 @@ The repository contains SQL queries for analyzing TV shows and movies on the NET
 2. Execute the SQL queries using your preferred database management system.
 3. Explore the results and visualize the data as needed.
 
-**CONSTRIBUTIONS**
+ **CONSTRIBUTIONS** 
 
 Contributions and feedback are welcome! If you have ideas for additional queries or improvements, feel free to submit a pull request.
